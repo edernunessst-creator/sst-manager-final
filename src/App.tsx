@@ -1,10 +1,10 @@
 /**
  * @license
- * SPDX-License-Identifier: Apache-2.0
- */
+* SPDX-License-Identifier: Apache-2.0
+*/
 
-import { motion } from "framer-motion"
-import { 
+import { useState } from "react";
+import { motion } from "framer-motion";
   MapPin, 
   User, 
   AlertTriangle, 
