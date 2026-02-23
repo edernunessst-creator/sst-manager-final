@@ -27,7 +27,7 @@ import {
   Filter,
   Clock
 } from 'lucide-react';
-import { motion, AnimatePresence } from 'motion/react';
+import { motion, AnimatePresence } from "framer-motion";
 import { createClient } from '@supabase/supabase-js';
 
 // --- SUPABASE CLIENT ---
