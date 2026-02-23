@@ -3,7 +3,7 @@
  * SPDX-License-Identifier: Apache-2.0
  */
 
-import { motion, AnimatePresence } from "framer-motion";
+import { motion } from "framer-motion"
 import { 
   MapPin, 
   User, 
